@@ -1,0 +1,58 @@
+
+               h1{color:blue;
+                 }
+                h1{
+                  border: solid;
+                  margin: 50px;
+                 }
+               h2{color: crimson;
+                 }
+                h2{
+                  border: solid;
+                 }
+               h3{color: green;
+                 }
+                h3{
+                  border: solid;
+                 }
+                p{color: orange;
+                 }
+                p{
+                  border: solid;
+                  border-width: 0.1px;
+                  
+                 }
+                .header{
+                    background-color:yellow;
+
+                    display: flex;
+
+                    justify-content: center;
+
+                }
+                .siteDescription{
+                    background-color: rebeccapurple;
+
+                    display: flex;
+
+                    justify-content: space-around;
+                }
+                .grid{
+                    background-color: lightgreen;
+
+                    display: flex; 
+
+                    justify-content: space-evenly;
+
+                    flex-wrap: wrap;
+
+                }
+                .footer{
+                    background-color: teal;
+
+                    display: flex;
+
+                    justify-content: space-evenly;
+
+                    flex-wrap: wrap;
+                }
